@@ -1,0 +1,15 @@
+div.first {
+  width: 200px;
+  height: 180px;
+  background: green;
+  color: #fff;
+  text-align: center;
+  line-height: 180px;
+}
+
+div.second {
+  width: 200px;
+  height: 180px;
+}
+
+/*# sourceMappingURL=maps/base.css.map */
